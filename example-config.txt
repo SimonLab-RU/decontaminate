@@ -1,0 +1,2 @@
+LIB_1_igg	path/to/library1.fastq
+LIB_2_igg	path/to/library1.fastq
